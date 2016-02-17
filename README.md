@@ -15,14 +15,14 @@ But I made this start template project because it seemed more useful to me, and 
 
 
 The **characteristics** of this start template are:
-1. The UART is configured, and the project has code to send and receive data from the PC, with the pins configured P12[6] and P12[7]. Although this kit has a programmer with debugger this really useful in the development process. The wires between the programmer board part of the board and the PSoC 5 LP board came already connected so you don’t have to connect any wire.
-2. Has the switch of the kit already mapped to an input pin in resistive pullup mode, with code that send the status of the pin to the PC by UART.
-3. Has the blue LED mapped to an output pin in strong mode, showing it the state on the PC and permitting to change the state from the PC.
-4. Has a chip internal clock configured to 3MHz (maximum precision of +-1%) but the PLL configured to 70MHz for internal chip clock.
-5. Has a schematic sheet in a big A3 format. You can add more sheets.
+- The UART is configured, and the project has code to send and receive data from the PC, with the pins configured P12[6] and P12[7]. Although this kit has a programmer with debugger this really useful in the development process. The wires between the programmer board part of the board and the PSoC 5 LP board came already connected so you don’t have to connect any wire.
+- Has the switch of the kit already mapped to an input pin in resistive pullup mode, with code that send the status of the pin to the PC by UART.
+- Has the blue LED mapped to an output pin in strong mode, showing it the state on the PC and permitting to change the state from the PC.
+- Has a chip internal clock configured to 3MHz (maximum precision of +-1%) but the PLL configured to 70MHz for internal chip clock.
+- Has a schematic sheet in a big A3 format. You can add more sheets.
 
 
-![Image 1](.\images\PSoC_Creator_001.jpg)
+![Image 1](./images/PSoC_Creator_001.jpg)
 
 ---
 ## How to connect from the PC (heading)
@@ -43,7 +43,7 @@ flow control: None
 
 And press ‘M’ and a menu appears with the following commands.
 
-![Image 2](.\images\PuTTY_menu.jpg)
+![Image 2](./images/PuTTY_menu.jpg)
 
 The are 3 counters, 8 bits a 16 bits and a 32 bits.
 
@@ -56,10 +56,10 @@ Open the project and in the menu Build->Clean UART_001, to remove the build file
 Then open the workspace in the PSoC Creator 3.3 or greater and with the right mouse button click over the workspace name in the left tree and rename to the workspace name, right click on the project to rename the project to the new project name.
 
 Rename workspace:
-![Image 3](.\images\PSoC_Creator_002.jpg)
+![Image 3](./images/PSoC_Creator_002.jpg)
 
 Rename project:
-![Image 4](.\images\PSoC_Creator_003.jpg)
+![Image 4](./images/PSoC_Creator_003.jpg)
 
 Save all files.
 
