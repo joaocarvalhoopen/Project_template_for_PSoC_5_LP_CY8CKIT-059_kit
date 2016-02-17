@@ -56,10 +56,10 @@ Open the project and in the menu Build->Clean UART_001, to remove the build file
 
 Then open the workspace in the PSoC Creator 3.3 or greater and with the right mouse button click over the workspace name in the left tree and rename to the workspace name, right click on the project to rename the project to the new project name.
 
-Rename workspace:
+Rename workspace:<br>
 ![Image 3](./images/PSoC_Creator_002.jpg)
 
-Rename project:
+Rename project:<br>
 ![Image 4](./images/PSoC_Creator_003.jpg)
 
 Save all files.
