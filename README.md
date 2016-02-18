@@ -26,6 +26,38 @@ The **characteristics** of this start template are:
 ![Image 1](./images/PSoC_Creator_001.jpg)
 
 ---
+## What is PSOC 5 LP?
+The PSoC 5 LP from [Cypress](https:www.cypress.com) is an 80MHz flexible SOC (System On a Chip), with an 32bit ARM Cortex M3 core, that has digital blocks like a CPLD (programmed by GUI or Verilog), and has analog blocks. It also has a range of virtual blocks.
+
+The list of PSoC 5 LP characteristics/blocks/peripherals are:
+- 250Kb code flash
+- 64Kb RAM
+- 2K EEPROM
+- 24 Channel DMA
+- 24-bit fixed-point digital filter processor (DFB)
+- 20+ Universal Building Blocks (CPLD / digital logic)
+- Up to 24 capacitive touch sensors.
+- 4 - OpAmp (8Mhz)
+- 4 - Comparators
+- Analog Mux
+- Analog Mixer
+- Sample and hold
+- Voltage reference with 0.1% precision.
+- 1 – ADC Delta-Sigma 20 bits
+- 2 – SAR ADC 12bits 1Msample
+- 4 - Programmable amplifiers/Trans impedance amplifiers
+- 4 - 8bit voltage DAC / current DAC
+- 736 segments LCD drive for custom displays
+- Reconfigurable pin allocation
+- 300nA low leakage Hibernate low power mode
+- Analog peripherals (1.71 V ≤ VDDA ≤ 5.50 V)
+- Full USB 12Mbps
+- I2C / I2S/ SPI / UART / CAN
+- RTC – Real Time Clock
+
+In terms of **price** PSoC 5 LP start at 4.5 euros and go to 14 euros in small quantities of 10.
+
+---
 ## How to connect from the PC
 
 Connect the Kit to your PC using USB.<br>
