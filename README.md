@@ -27,7 +27,7 @@ The **characteristics** of this start template are:
 
 ---
 ## What is PSOC 5 LP?
-The PSoC 5 LP from [Cypress](https:www.cypress.com) is an 80MHz flexible SOC (System On a Chip), with an 32bit ARM Cortex M3 core, that has digital blocks like a CPLD (programmed by GUI or Verilog), and has analog blocks. It also has a range of virtual blocks.
+The PSoC 5 LP from [Cypress](https://www.cypress.com) is an 80MHz flexible SOC (System On a Chip), with an 32bit ARM Cortex M3 core, that has digital blocks like a CPLD (programmed by GUI or Verilog), and has analog blocks. It also has a range of virtual blocks.
 
 The list of PSoC 5 LP characteristics/blocks/peripherals are:
 - 250Kb code flash
